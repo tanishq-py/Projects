@@ -1,0 +1,41 @@
+.desktop-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  background-image: url(./public/rectangle-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.visuals-sw-bs0ovgv0-unsplash-1-icon {
+  position: absolute;
+  top: 285px;
+  left: 536px;
+  width: 533px;
+  height: 167px;
+  object-fit: cover;
+}
+.video-conference-with {
+  border: 0;
+  background-color: transparent;
+  font-family: var(--font-inter);
+  font-size: 28.9px;
+  outline: 0;
+  position: absolute;
+  top: 468.7px;
+  left: 536px;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 498px;
+  height: 86.6px;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+}
